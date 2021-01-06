@@ -252,7 +252,7 @@ public class BashekimBilgileriGoster extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     public void goster(){
-        parolaGoster_alani.setText(ad);
+        adGoster_alani.setText(ad);
         soyadGoster_alani.setText(soyad);
         parolaGoster_alani.setText(parola);
         kimlikNoGoster_alani.setText(tcNo);
